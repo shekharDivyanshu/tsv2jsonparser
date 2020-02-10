@@ -16,3 +16,7 @@
 ### Swagger Api is accessible at [http://localhost:8085/swagger-ui.html#/](http://localhost:8085/swagger-ui.html#/)
 
 ### Test Api for tsv -> json generator
+<img src="images/swagger_api_tsv_2_json.png" />
+
+### Test Api to retrieve tsv and json based on msg id [ part of generated url]
+<img src="images/retrieve_api_with_msg_id.png" />
