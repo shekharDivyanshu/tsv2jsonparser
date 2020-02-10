@@ -12,3 +12,7 @@
   run with command " java -jar tsv2jsonparser-0.0.1-SNAPSHOT.jar"
   
   Api will listen to port 8085
+  
+### Swagger Api is accessible at [http://localhost:8085/swagger-ui.html#/](http://localhost:8085/swagger-ui.html#/)
+
+### Test Api for tsv -> json generator
