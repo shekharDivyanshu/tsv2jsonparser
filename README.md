@@ -8,8 +8,8 @@
    mvn clean install 
    
 ### steps to run project 
-  copy executable jar from target folder 
-  run with command " java -jar tsv2jsonparser-0.0.1-SNAPSHOT.jar"
+  1. copy executable jar from target folder and place in a directory
+  2. Go to jar directory and run application with command " java -jar tsv2jsonparser-0.0.1-SNAPSHOT.jar"
   
   Api will listen to port 8085
   
